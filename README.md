@@ -2,7 +2,7 @@
 
 Workspace to play with Reed-Solomon.
 
-This code contains a partial port of the [JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) library released by [Backblaze](http://backblaze.com).
+This code contains a partial port of the [Backblaze/JavaReedSolomon](https://github.com/Backblaze/JavaReedSolomon) library.
 
 For an introduction on erasure coding, see the post on the [Backblaze blog](https://www.backblaze.com/blog/reed-solomon/).
 
